@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CSVBulkCopyToSQLServer
+</name>
+</assembly>
+<members>
+<member name="T:CSVBulkCopyToSQLServer.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CSVBulkCopyToSQLServer.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CSVBulkCopyToSQLServer.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:CSVBulkCopyToSQLServer.CSVSQLBulkLoader.Load(System.String,System.String,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="fileName">CSV file name with extension </param>
+ <param name="DestinationTable"> SQL Server table name</param>
+ <param name="numberOfColumns">Number of columns in the CSV file. Corresponding DB Table will have one more auto column ID </param>
+</member>
+<member name="M:CSVBulkCopyToSQLServer.CSVSQLBulkLoader.BackUpAndDeleteFile(System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="fileName"> fileName with extension</param>
+</member>
+</members>
+</doc>

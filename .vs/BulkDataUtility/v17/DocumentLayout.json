@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\Vertex\\TMC\\Source\\service\\CSVBulkCopyToSQLServer\\CSVBulkCopyToSQLServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0325F7-2850-4350-A8E6-5BF6981C2BEE}|CSVBulkCopyToSQLServer\\BulkDataUtility.vbproj|c:\\work\\vertex\\tmc\\source\\service\\csvbulkcopytosqlserver\\csvbulkcopytosqlserver\\csvbulkcopytosqlserver\\csvsqlbulkloader.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D0325F7-2850-4350-A8E6-5BF6981C2BEE}|CSVBulkCopyToSQLServer\\BulkDataUtility.vbproj|solutionrelative:csvbulkcopytosqlserver\\csvsqlbulkloader.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0325F7-2850-4350-A8E6-5BF6981C2BEE}|CSVBulkCopyToSQLServer\\BulkDataUtility.vbproj|C:\\Work\\Vertex\\TMC\\Source\\service\\CSVBulkCopyToSQLServer\\CSVBulkCopyToSQLServer\\csvbulkcopytosqlserver\\sqlaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D0325F7-2850-4350-A8E6-5BF6981C2BEE}|CSVBulkCopyToSQLServer\\BulkDataUtility.vbproj|solutionrelative:csvbulkcopytosqlserver\\sqlaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0325F7-2850-4350-A8E6-5BF6981C2BEE}|CSVBulkCopyToSQLServer\\BulkDataUtility.vbproj|C:\\Work\\Vertex\\TMC\\Source\\service\\CSVBulkCopyToSQLServer\\CSVBulkCopyToSQLServer\\csvbulkcopytosqlserver\\utillog.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D0325F7-2850-4350-A8E6-5BF6981C2BEE}|CSVBulkCopyToSQLServer\\BulkDataUtility.vbproj|solutionrelative:csvbulkcopytosqlserver\\utillog.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UtilLog.vb",
+              "DocumentMoniker": "C:\\Work\\Vertex\\TMC\\Source\\service\\CSVBulkCopyToSQLServer\\CSVBulkCopyToSQLServer\\CSVBulkCopyToSQLServer\\UtilLog.vb",
+              "RelativeDocumentMoniker": "CSVBulkCopyToSQLServer\\UtilLog.vb",
+              "ToolTip": "C:\\Work\\Vertex\\TMC\\Source\\service\\CSVBulkCopyToSQLServer\\CSVBulkCopyToSQLServer\\CSVBulkCopyToSQLServer\\UtilLog.vb",
+              "RelativeToolTip": "CSVBulkCopyToSQLServer\\UtilLog.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-23T20:12:32.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLAction.vb",
+              "DocumentMoniker": "C:\\Work\\Vertex\\TMC\\Source\\service\\CSVBulkCopyToSQLServer\\CSVBulkCopyToSQLServer\\CSVBulkCopyToSQLServer\\SQLAction.vb",
+              "RelativeDocumentMoniker": "CSVBulkCopyToSQLServer\\SQLAction.vb",
+              "ToolTip": "C:\\Work\\Vertex\\TMC\\Source\\service\\CSVBulkCopyToSQLServer\\CSVBulkCopyToSQLServer\\CSVBulkCopyToSQLServer\\SQLAction.vb",
+              "RelativeToolTip": "CSVBulkCopyToSQLServer\\SQLAction.vb",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-23T16:49:41.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CSVSQLBulkLoader.vb",
+              "DocumentMoniker": "C:\\Work\\Vertex\\TMC\\Source\\service\\CSVBulkCopyToSQLServer\\CSVBulkCopyToSQLServer\\CSVBulkCopyToSQLServer\\CSVSQLBulkLoader.vb",
+              "RelativeDocumentMoniker": "CSVBulkCopyToSQLServer\\CSVSQLBulkLoader.vb",
+              "ToolTip": "C:\\Work\\Vertex\\TMC\\Source\\service\\CSVBulkCopyToSQLServer\\CSVBulkCopyToSQLServer\\CSVBulkCopyToSQLServer\\CSVSQLBulkLoader.vb",
+              "RelativeToolTip": "CSVBulkCopyToSQLServer\\CSVSQLBulkLoader.vb",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-23T14:24:37.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

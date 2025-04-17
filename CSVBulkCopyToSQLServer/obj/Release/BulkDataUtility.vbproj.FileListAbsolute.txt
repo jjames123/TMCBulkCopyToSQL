@@ -1,0 +1,18 @@
+c:\users\hp 2\onedrive\documents\visual studio 2015\Projects\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\bin\Release\CSVBulkCopyToSQLServer.dll
+c:\users\hp 2\onedrive\documents\visual studio 2015\Projects\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\bin\Release\CSVBulkCopyToSQLServer.pdb
+c:\users\hp 2\onedrive\documents\visual studio 2015\Projects\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\bin\Release\CSVBulkCopyToSQLServer.xml
+c:\users\hp 2\onedrive\documents\visual studio 2015\Projects\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\obj\Release\CSVBulkCopyToSQLServer.Resources.resources
+c:\users\hp 2\onedrive\documents\visual studio 2015\Projects\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\obj\Release\BulkDataUtility.vbproj.GenerateResource.Cache
+c:\users\hp 2\onedrive\documents\visual studio 2015\Projects\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\obj\Release\CSVBulkCopyToSQLServer.dll
+c:\users\hp 2\onedrive\documents\visual studio 2015\Projects\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\obj\Release\CSVBulkCopyToSQLServer.xml
+c:\users\hp 2\onedrive\documents\visual studio 2015\Projects\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\obj\Release\CSVBulkCopyToSQLServer.pdb
+C:\Work\Vertex\TMC\Source\service\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\bin\Release\CSVBulkCopyToSQLServer.dll
+C:\Work\Vertex\TMC\Source\service\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\bin\Release\CSVBulkCopyToSQLServer.pdb
+C:\Work\Vertex\TMC\Source\service\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\bin\Release\CSVBulkCopyToSQLServer.xml
+C:\Work\Vertex\TMC\Source\service\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\obj\Release\BulkDataUtility.vbproj.AssemblyReference.cache
+C:\Work\Vertex\TMC\Source\service\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\obj\Release\CSVBulkCopyToSQLServer.Resources.resources
+C:\Work\Vertex\TMC\Source\service\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\obj\Release\BulkDataUtility.vbproj.GenerateResource.cache
+C:\Work\Vertex\TMC\Source\service\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\obj\Release\BulkDataUtility.vbproj.CoreCompileInputs.cache
+C:\Work\Vertex\TMC\Source\service\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\obj\Release\CSVBulkCopyToSQLServer.dll
+C:\Work\Vertex\TMC\Source\service\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\obj\Release\CSVBulkCopyToSQLServer.xml
+C:\Work\Vertex\TMC\Source\service\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\CSVBulkCopyToSQLServer\obj\Release\CSVBulkCopyToSQLServer.pdb
